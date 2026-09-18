@@ -1,0 +1,753 @@
+Design and build a complete, polished, responsive website for **Nebula**, an early-stage deep-tech project focused on enabling humanity to utilize resources beyond Earth and ultimately expand human presence beyond Earth.
+
+## CORE IDENTITY
+
+Nebula is the overarching project/organization.
+
+**Helix** is an autonomous robotic system currently being researched and designed as part of Nebula.
+
+Do NOT present Helix as a separate company.
+
+The current work is focused primarily on extraterrestrial resources and the development of autonomous robotic systems capable of operating in difficult off-Earth environments.
+
+Nebula's long-term objective is much larger: enabling the infrastructure and resource systems required for humanity to expand beyond Earth.
+
+The website is primarily an **investor/researcher/founder credibility website**, not an e-commerce site, SaaS site, product marketplace, or sales funnel.
+
+The site should communicate ambition, seriousness, technical curiosity, honesty, and long-term thinking.
+
+Do not make unsupported claims about technology being completed or operational.
+
+---
+
+# VISUAL DIRECTION
+
+Create a visual identity that feels like:
+
+**frontier engineering + aerospace research + advanced robotics + premium modern technology.**
+
+Avoid the generic "space startup" aesthetic.
+
+Do NOT fill the website with rockets, astronauts, planets, stars, galaxies, emoji, excessive particle effects, glowing sci-fi interfaces, or decorative space graphics.
+
+No rocket emoji.
+No astronaut imagery.
+No excessive stars.
+No cheesy futuristic HUDs.
+No excessive neon.
+No cyberpunk aesthetic.
+
+The website should feel technologically advanced because of its **typography, layout, imagery, precision, and interaction design**, not because of visual gimmicks.
+
+Use a restrained dark visual system with strong contrast, sophisticated typography, generous whitespace, subtle technical details, and carefully selected imagery.
+
+The homepage should be visually impressive and clearly above-average, but not overloaded.
+
+Use approximately 5–7 meaningful visual moments throughout the entire site rather than placing images everywhere.
+
+---
+
+# HOMEPAGE
+
+The homepage should be the strongest and most visually attractive page.
+
+## Hero section
+
+Use a **high-quality real lunar surface photograph as the primary visual foundation**.
+
+The image should feel authentic and documentary rather than like generic science-fiction artwork.
+
+Subtly integrate a conceptual visualization of the Helix robotic system into the lunar environment so that it feels like an advanced engineering concept placed into a real lunar setting.
+
+The integration should be believable and restrained.
+
+The visual should communicate:
+
+**"This is where the system is intended to operate."**
+
+Do not make the robot enormous or visually dominant over the Moon.
+
+Use a cinematic full-width or large immersive hero composition.
+
+Hero typography should be extremely clean and minimal.
+
+Suggested copy direction:
+
+**Resources beyond Earth.**
+
+Supporting copy:
+
+**Nebula is researching the autonomous systems required to find, extract, process and utilize resources beyond our planet.**
+
+Primary CTA:
+
+**Explore Helix**
+
+Secondary CTA:
+
+**Our Vision**
+
+Do not use excessive text in the hero.
+
+The hero should immediately communicate what Nebula is working on.
+
+---
+
+# HOMEPAGE SECTION 2 — THE PROBLEM
+
+Introduce the underlying problem without making the section feel like a corporate pitch deck.
+
+Headline direction:
+
+**The next resource frontier is beyond Earth.**
+
+Briefly explain that operating beyond Earth introduces interconnected challenges involving:
+
+* resource availability
+* accessibility
+* extraction
+* processing
+* energy
+* communication
+* autonomy
+* environmental resilience
+* long-duration operation
+
+Emphasize that finding a resource is not equivalent to being able to use it.
+
+Use a strong lunar/environmental photograph or subtle technical visual here.
+
+---
+
+# HOMEPAGE SECTION 3 — HELIX
+
+Introduce Helix as Nebula's current major engineering effort.
+
+Headline:
+
+**Meet Helix.**
+
+Supporting copy:
+
+**An autonomous robotic system being researched for operation in extraterrestrial environments.**
+
+State clearly:
+
+**Helix is currently in the research and architecture phase.**
+
+Do not imply that the robot has already been built.
+
+Show a conceptual technical visualization of Helix.
+
+Include a concise capability grid:
+
+### Environmental resilience
+
+Designed around the challenges of lunar dust, vacuum and extreme thermal conditions.
+
+### Autonomous operation
+
+Designed to operate with limited continuous human intervention.
+
+### Autonomous recovery
+
+Researching systems capable of detecting failures and attempting recovery without immediate human intervention.
+
+### Self-repair
+
+Exploring mechanisms through which the system could potentially restore damaged components.
+
+### Machine assistance
+
+Exploring whether one autonomous system could diagnose, assist, repair, or recover another.
+
+### Resource operations
+
+Researching autonomous terrain perception, resource identification, excavation, material handling and processing.
+
+Clearly label these as **research objectives / development goals**, not completed capabilities.
+
+---
+
+# HOMEPAGE SECTION 4 — RESEARCH
+
+Create a section titled:
+
+**Research underway.**
+
+Explain that Nebula is currently investigating the scientific, engineering and computational questions required to make autonomous extraterrestrial resource operations possible.
+
+Show an elegant research-state layout.
+
+Do NOT fabricate research papers or results.
+
+Instead, create a visually intentional state communicating:
+
+**Research is currently underway.**
+
+Include categories that will later contain actual material:
+
+* Extraterrestrial Resources
+* Autonomous Robotics
+* Lunar Environment
+* Resource Extraction
+* Resource Processing
+* Autonomous Decision Systems
+* Computational Modeling
+
+The section should look complete as a design even though the content is currently under development.
+
+---
+
+# HOMEPAGE SECTION 5 — PROGRESS
+
+Create a section introducing a transparent research progress log.
+
+Headline:
+
+**What we've learned.**
+
+This is NOT a conventional startup milestone timeline.
+
+It should represent changes in understanding, questions, assumptions, discoveries, research and development.
+
+Example visual structure:
+
+**September 2026**
+
+**Defining the problem**
+
+Mapping the challenges surrounding extraterrestrial resource utilization and autonomous operation.
+
+**Challenging assumptions**
+
+Identifying assumptions that require evidence rather than acceptance.
+
+**Safety as a constraint**
+
+Recognizing that systems intended to eventually support human activity cannot treat unresolved safety risks casually.
+
+Do not invent achievements.
+
+Make it clear that this section will continuously document real progress.
+
+CTA:
+
+**View the full progress log →**
+
+---
+
+# HOMEPAGE SECTION 6 — THE VISION
+
+This is where the larger Nebula objective becomes visible.
+
+Headline direction:
+
+**The work begins with resources. The objective is expansion.**
+
+Explain the conceptual chain:
+
+**Resources → Infrastructure → Persistent presence → Expansion**
+
+The long-term objective is to expand the physical domain in which humanity can live, build and operate.
+
+Do not make unrealistic promises or attach arbitrary timelines.
+
+Introduce the principle:
+
+# IMPACT
+
+Use "Impact" as a central philosophical word rather than a cheesy slogan.
+
+Possible supporting line:
+
+**Build what matters. Push the boundary. Leave an impact.**
+
+Keep this section visually powerful and restrained.
+
+Use a carefully selected wide image related to Earth, the Moon, or human expansion into space.
+
+Do not use an astronaut.
+
+---
+
+# HOMEPAGE SECTION 7 — PEOPLE
+
+Introduce the founders.
+
+### Yashasvi Pathak
+
+**Founder**
+
+### Amir Shams Azad
+
+**Co-founder**
+
+Keep biographies short and genuine.
+
+Do not invent credentials, companies, awards, degrees, or achievements.
+
+Include a link to Yashasvi's LinkedIn:
+
+https://www.linkedin.com/in/yashasvi-pathak-991794437/
+
+Include a placeholder for GitHub because the GitHub profile/organization will be added later.
+
+---
+
+# HOMEPAGE SECTION 8 — CONTACT
+
+Keep contact extremely simple.
+
+Headline:
+
+**Interested in the problem?**
+
+Provide:
+
+**Email**
+
+[hojim2416@gmail.com](mailto:hojim2416@gmail.com)
+
+**LinkedIn**
+
+Yashasvi Pathak
+
+**GitHub**
+
+Coming soon / placeholder link
+
+Do not create an aggressive sales funnel.
+
+Do not use "Book a demo", "Get started", "Buy", "Request a quote", or similar SaaS language.
+
+A simple contact interaction is enough.
+
+Do not prominently display a personal phone number in the first version of the public website.
+
+---
+
+# NAVIGATION
+
+Create a sophisticated futuristic navigation bar.
+
+Navigation items:
+
+**Home**
+**Problem**
+**Helix**
+**Research**
+**Progress**
+**Vision**
+**About**
+
+Right side:
+
+**GitHub**
+
+The navigation should be dynamic but subtle.
+
+Implement:
+
+* smooth hover transitions
+* elegant animated underline or active indicator
+* slight movement on hover
+* active-page state
+* transparent/overlay appearance over the hero
+* transition into a slightly more defined navigation surface when scrolling
+* smooth scrolling/page transitions
+
+The navigation animation should feel premium and futuristic without distracting from the content.
+
+Do NOT use huge animated menus or excessive effects.
+
+---
+
+# PAGE 2 — PROBLEM
+
+Create a dedicated Problem page.
+
+Structure the problem as interconnected layers:
+
+### 01 — Availability
+
+What resources exist beyond Earth and where they are found.
+
+### 02 — Accessibility
+
+Whether resources can actually be reached and used.
+
+### 03 — Extraction
+
+How material can be physically removed from extraterrestrial environments.
+
+### 04 — Processing
+
+How raw material can become useful material.
+
+### 05 — Energy
+
+How resource operations can function within severe energy constraints.
+
+### 06 — Autonomy
+
+How machines can operate without continuous human control.
+
+### 07 — Environmental resilience
+
+Dust, vacuum, radiation, thermal extremes, terrain and mechanical degradation.
+
+### 08 — Long-duration reliability
+
+How systems can remain functional for extended operations.
+
+Within the autonomy section, acknowledge that there are deeper unresolved questions involving human safety and eventually the biological consequences of living in environments with different gravity.
+
+Do not present those unresolved questions as solved science.
+
+Make the page feel like a serious research problem map.
+
+---
+
+# PAGE 3 — HELIX
+
+Create a dedicated Helix page.
+
+Hero:
+
+**HELIX**
+
+**Autonomous systems for extraterrestrial environments.**
+
+State:
+
+**Research and architecture underway.**
+
+Then create detailed sections:
+
+## Mission objective
+
+Develop an autonomous robotic architecture capable of operating in difficult extraterrestrial environments and eventually performing resource-related operations.
+
+## Environmental resilience
+
+Explore:
+
+* lunar dust/regolith resistance
+* vacuum operation
+* extreme thermal conditions
+* mechanical durability
+* long-duration operation
+
+## Autonomous resilience
+
+Explore:
+
+* self-diagnosis
+* fault isolation
+* autonomous recovery
+* redundancy
+* self-repair
+* machine-to-machine assistance
+
+## Resource operations
+
+Explore:
+
+* perception
+* terrain mapping
+* resource identification
+* navigation
+* excavation
+* material handling
+* processing
+* energy management
+* autonomous planning
+
+## Architecture
+
+Display a beautiful conceptual system diagram.
+
+Use a placeholder state such as:
+
+**System architecture currently under development.**
+
+Do not fabricate a final blueprint.
+
+Make the page feel like an evolving engineering project.
+
+---
+
+# PAGE 4 — RESEARCH
+
+Create a clean research archive.
+
+At launch, display:
+
+**Research underway.**
+
+Then provide the structure for future publications.
+
+Research cards should support:
+
+* research papers
+* technical reports
+* literature reviews
+* simulations
+* datasets
+* code
+* experiments
+* design documents
+* mathematical models
+* prototypes
+
+Each future research item should be capable of displaying:
+
+**Title**
+**Date**
+**Status**
+**Short description**
+**Technical material**
+**GitHub / PDF**
+
+Do not populate nonexistent results.
+
+---
+
+# PAGE 5 — PROGRESS / LOG
+
+Make this a transparent chronological research record.
+
+Do not call it "milestones."
+
+Use:
+
+**Progress**
+or
+**Research Log**
+
+Allow entries to describe:
+
+* questions discovered
+* assumptions challenged
+* failed ideas
+* new research directions
+* technical discoveries
+* safety concerns
+* experiments
+* simulations
+* prototypes
+* completed work
+
+The philosophy should be:
+
+**Document how our understanding changes.**
+
+Use a clean timeline layout with dates and concise descriptions.
+
+---
+
+# PAGE 6 — VISION
+
+Make this the deepest conceptual page.
+
+Opening:
+
+**The work begins with resources.**
+
+Then:
+
+**The objective is expansion.**
+
+Explain the long-term Nebula vision:
+
+Humanity's physical presence does not necessarily have to remain confined to Earth.
+
+Resources enable infrastructure.
+
+Infrastructure enables persistent operations.
+
+Persistent operations enable expansion.
+
+The long-term objective is to develop technologies that contribute to this progression.
+
+Avoid claiming that Nebula will accomplish all of this alone.
+
+Frame it as a long-term direction.
+
+End with a large typographic statement:
+
+**IMPACT**
+
+The word should have significant visual presence without becoming a motivational-poster cliché.
+
+---
+
+# PAGE 7 — ABOUT
+
+Create a simple founder page.
+
+## Yashasvi Pathak
+
+Founder
+
+## Amir Shams Azad
+
+Co-founder
+
+Present them as the people currently building Nebula.
+
+Keep the design human and understated.
+
+Include LinkedIn links.
+
+Do not invent biographies.
+
+---
+
+# PAGE 8 — CONTACT
+
+Minimal contact page.
+
+**Interested in the work?**
+
+Email:
+[hojim2416@gmail.com](mailto:hojim2416@gmail.com)
+
+LinkedIn:
+Yashasvi Pathak
+
+GitHub:
+Coming soon
+
+Optional simple contact form, but keep it extremely lightweight.
+
+---
+
+# TYPOGRAPHY
+
+Use a premium modern sans-serif typography system.
+
+Large, confident headlines.
+
+Short paragraphs.
+
+Strong hierarchy.
+
+Avoid overly futuristic fonts.
+
+The typography should feel closer to high-end technology/product design than science-fiction.
+
+Use very large typography selectively for major statements.
+
+---
+
+# IMAGERY
+
+Use imagery intentionally.
+
+Primary imagery:
+
+1. Real lunar surface photograph + conceptual Helix visualization for the homepage hero.
+2. Lunar/environmental photograph for the Problem page.
+3. Technical conceptual Helix visualization for the Helix page.
+4. Technical diagrams and actual research visuals for Research.
+5. Real progress screenshots/photos/figures as they become available.
+6. One powerful Earth/Moon or human-expansion image for Vision.
+
+Avoid generic stock photography.
+
+Avoid astronauts.
+
+Avoid rockets unless they are genuinely necessary for explaining a technical point.
+
+Avoid decorative images that do not communicate anything.
+
+---
+
+# DESIGN PRINCIPLES
+
+The website must feel:
+
+**real**
+**ambitious**
+**technical**
+**young but serious**
+**research-driven**
+**honest**
+**forward-looking**
+
+It must NOT feel:
+
+**corporate**
+**salesy**
+**overhyped**
+**fake futuristic**
+**generic space-themed**
+**AI-generated startup template**
+
+The most important design principle:
+
+> **The visual ambition can be ahead of the current technology, but the written claims must never be ahead of reality.**
+
+Use elegant empty states for unfinished areas rather than fake content.
+
+---
+
+# RESPONSIVENESS
+
+Design desktop first but make the entire website fully responsive.
+
+Support:
+
+* desktop
+* tablet
+* mobile
+
+Maintain typography hierarchy and image quality across breakpoints.
+
+Navigation should become a clean mobile menu while retaining subtle animation.
+
+---
+
+# MICRO-INTERACTIONS
+
+Use subtle interactions throughout:
+
+* navigation hover animations
+* active section indicators
+* image reveal transitions
+* card hover elevation/movement
+* smooth scrolling
+* subtle text reveals
+* understated section transitions
+
+Avoid:
+
+* particle backgrounds
+* cursor trails
+* excessive parallax
+* constant motion
+* glowing borders everywhere
+* loading screens
+* unnecessary 3D effects
+
+Motion should reinforce the interface, not become the interface.
+
+---
+
+# FINAL IMPRESSION
+
+When someone lands on the website, the immediate impression should be:
+
+**"These people are seriously thinking about how autonomous systems could enable resource utilization beyond Earth."**
+
+After exploring it, the second impression should be:
+
+**"They are early, but they are actually thinking through the hard problems instead of pretending they have already solved them."**
+
+And after reaching Vision:
+
+**"The robot is only one component of a much larger objective."**
+
+The final site should look like the beginning of a serious frontier-technology organization—not a finished corporation pretending to already have a Moon factory.
